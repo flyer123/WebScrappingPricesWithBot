@@ -1,0 +1,1 @@
+Web scrapping application to scrap products with discounts on web site and send it to a telegram bot
